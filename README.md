@@ -68,5 +68,6 @@ Start working on the lab by clicking on the `Start_Here.ipynb` notebook.
 
  
 
-#Tutorial Duration
+# Tutorial Duration
+
 The total bootcamp material would take 2 hours.
